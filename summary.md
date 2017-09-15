@@ -1,0 +1,38 @@
+# Summary
+
+* [业务描述](readme.md)
+* 功能入口
+    * [一般用户](app/entrance-user.md)
+    * [面向超玩](app/entrance-xplayer.md)
+    * [直播间](app/entrance-live.md)
+* 超玩业务首页
+    * [页面原型](app/index-xplay.md)
+    * [公布栏](app/index-banner.md)
+    * [超玩列表](app/index-xplayer-list.md)
+    * [系统动态](app/index-speaker.md)
+    * [选择游戏](app/index-changegame.md)
+* 超玩详情
+    * [页面原型](app/xplayer-info.md)
+    * [直播实况](app/xplayer-info-live.md)
+    * [基本信息](app/xplayer-info-base.md)
+    * [游戏信息](app/xplayer-info-game.md)
+    * [陪玩视频](app/xplayer-info-video.md)
+    * [评价](app/xplayer-info-evaluate.md)
+    * [修改资料](app/xplayer-info-edit.md)
+* 交易系统
+    * [接单状态](app/order-xplayer-state.md)
+    * [下单](app/order-create.md)
+    * [新订单](app/order-new.md)
+    * [订单中心](app/order-list.md)
+    * [订单状态](app/order-state.md)
+    * [交易逻辑](app/order-logic.md)
+* [偶像系统](app/idol-list.md)
+* [聊天系统](app/im.md)
+* [评价系统](app/evaluate.md)
+* [认证系统](app/verify.md)
+* 运营后台
+    * [直播实况小视频](console/video-mini-live.md)
+    * [运营广告-首页](console/index-ad.md)
+    * [审核超玩认证](console/verify.md)
+    * [游戏信息](console/gameinfo.md)
+
