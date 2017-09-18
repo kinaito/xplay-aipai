@@ -1,7 +1,7 @@
 # Summary
 
 * [业务描述](readme.md)
-* 功能入口
+* 入口
     * [一般用户](app/entrance-user.md)
     * [面向超玩](app/entrance-xplayer.md)
     * [直播间](app/entrance-live.md)
