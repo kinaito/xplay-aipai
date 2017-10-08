@@ -1,0 +1,10 @@
+
+{
+"plugins": [
+    "-sharing",
+    "expandable-chapters",
+    "-search",
+    "-lunr",
+    "search-plus"
+    ]
+}

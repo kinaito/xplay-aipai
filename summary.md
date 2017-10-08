@@ -35,7 +35,7 @@
     * [进行中](app/im.md)
     * [完成](app/order-finished.md)
 * 交易设定
-    * [接单状态](app/order-xplayer-state.md)
+    * [超玩状态](app/order-xplayer-state.md)
     * [用户状态](app/order-user-state.md)
     * [订单状态](app/order-state.md)
     * [订单状态的逻辑](app/order-logic.md)
@@ -44,7 +44,7 @@
     * [用户评价](app/evaluate.md)
     * [成为超玩](app/verify.md)
     * [IM](app/im-extra.md)
-    * [用户通知](app/notice.md)
+    * [用户通知的形式](app/notice.md)
 * 运营后台
     * [配置 首页-公布栏](app/console-index-ad.md)
     * [游戏信息](app/console-gameinfo.md)
