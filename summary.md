@@ -27,6 +27,7 @@
         * [我的订单](app/order-list.md)
         * [修改资料](app/xplayer-info-edit.md)
         * [管理超玩视频](app/idol-video-manage.md)
+        * [设置自我介绍视频](app/introducevideo-setting.md)
         * [消息](app/message.md)
 * 交易过程
     * [下单](app/order-create.md)
