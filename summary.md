@@ -53,4 +53,15 @@
     * [审核用户提现](app/console-takeout-verify.md)
     * [取消订单的理由](app/order-cancelreason.md)
     * [评价内容](app/evaluate-quickreplylist.md)
+* 二期功能
+    * 快速匹配
+	    * [概述](app/quickstart.md)
+	    * [用户-发起匹配](app/quickstart-start.md)
+	    * [用户-等待匹配](app/quickstart-wait.md)
+	    * [超玩-参加匹配](app/quickstart-join.md)
+    * [我的钱包](app/wallet.md)
+    * [语音简介](app/voiceintroduce.md)
+	* 其他
+        * [超玩和直播的业务数据互通](app/data-share.md)
+        * [订单完成时的提示](app/complete-notice.md)
 

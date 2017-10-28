@@ -40,7 +40,7 @@
 
 提现时的绑定支付方式，需要验证手机号
 
-功能详见，[我的报酬](index-my-xplayer-wallet.md)
+功能详见，[我的收益](index-my-xplayer-wallet.md)
 
 ### 4. 我的订单
 ![](img/我的订单-超玩.jpg)
