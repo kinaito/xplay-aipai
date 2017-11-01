@@ -29,22 +29,23 @@
         * [管理超玩视频](app/idol-video-manage.md)
         * [设置自我介绍视频](app/introducevideo-setting.md)
         * [消息](app/message.md)
-* 交易过程
-    * [下单](app/order-create.md)
-    * [等待响应](app/order-new.md)
-    * [沟通](app/order-communicate.md)
-    * [进行中](app/im.md)
-    * [完成](app/order-finished.md)
-* 交易设定
-    * [超玩状态](app/order-xplayer-state.md)
-    * [用户状态](app/order-user-state.md)
-    * [订单状态](app/order-state.md)
-    * [订单状态的逻辑](app/order-logic.md)
+* 交易系统
+	* 交易过程
+		* [下单](app/order-create.md)
+		* [等待响应](app/order-new.md)
+		* [沟通](app/order-communicate.md)
+		* [进行中](app/im.md)
+		* [完成](app/order-finished.md)
+	* 交易设定
+		* [超玩状态](app/order-xplayer-state.md)
+		* [用户状态](app/order-user-state.md)
+		* [订单状态](app/order-state.md)
+		* [订单状态的逻辑](app/order-logic.md)
 * 中间系统
-    * [偶像](app/idol-list.md)
-    * [用户评价](app/evaluate.md)
+    * [偶像系统](app/idol-list.md)
+    * [用户评价系统](app/evaluate.md)
     * [成为超玩](app/verify.md)
-    * [IM](app/im-extra.md)
+    * [IM聊天](app/im-extra.md)
     * [用户通知的形式](app/notice.md)
 * 运营后台
     * [配置 首页-公布栏](app/console-index-ad.md)
@@ -53,6 +54,8 @@
     * [审核用户提现](app/console-takeout-verify.md)
     * [取消订单的理由](app/order-cancelreason.md)
     * [评价内容](app/evaluate-quickreplylist.md)
+* 统计需求
+	* [业务数据模型](app/statistics.md)
 * 二期功能
     * 快速匹配
 	    * [概述](app/quickstart.md)
