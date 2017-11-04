@@ -1,9 +1,16 @@
 ### 更新记录
 
 
+20171104	晚上
+---
+* 新增 上线优化方案 [跳转](app/online-optimization.md)
+
 20171101	下午
 ---
 * 完善，将二期细案补充为二期PRD
+* 新增，`测试` 的标识，用于表示业务测试中，[跳转](app/index-xplay.md)
+* 新增，首页为空时的引导，[跳转](app/index-xplayer-list.md)
+* 新增，动态同步到爱拍，[跳转](app/index-speaker.md)
 
 20171031	下午
 ---
